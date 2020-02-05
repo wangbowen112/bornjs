@@ -1,0 +1,12 @@
+# dependencies  npm包文件
+/element-UI/node_modules
+/express/node_modules
+
+# production  打包文件
+/element-UI/build
+/express/build
+
+/element-UI/npm-debug.log*
+/express/npm-debug.log*
+
+/.idea
